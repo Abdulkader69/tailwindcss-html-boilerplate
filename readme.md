@@ -46,7 +46,5 @@ npm build
 
 then grab everything from the dist folder
 
-```
-
 ### configure tailwind
 There is a `tailwind.config.js` file with `purge` instructions. feel free to customize it according to your need

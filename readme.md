@@ -7,7 +7,7 @@ And finally for building the production code with tree-shaking (removing unused 
 
 So this boilerplate has all the configuration to save your time from this boring configurtion tasks (and from gogling many things)
 
-Use this boilerplate as the starting point for your JAMstack + **Tailwind CSS** based projects.
+Use this boilerplate as the starting point for your Any + **Tailwind CSS** based projects.
 
 ### Make sure you have installed NodeJs
 Install nodejs from here https://nodejs.org/en/
@@ -17,20 +17,27 @@ npm install --global yarn
 ```
 also you can continue this process using npm package manager. this build in from nodeJS.  
 
-### start
+### Clone this repo
 ```sh
 git clone https://github.com/Abdulkader69/tailwindcss-html-boilerplate.git
 cd tailwindcss-html-boilerplate
+```
+
+### Install Used packages
+```sh
 yarn install
 OR
 npm install
+```
 
+### Run Development Server
+```sh
 yarn dev
 OR
 npm dev
 ```
 
-### build
+### Build Productions Files
 ```sh
 yarn build
 OR
